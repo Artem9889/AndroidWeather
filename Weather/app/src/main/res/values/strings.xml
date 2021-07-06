@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sinoptik</string>
+    <string name="logo">S 🌡 n o p t i k 🌦</string>
+    <string name="hint_user_field">Введіть місто</string>
+    <string name="main_btn">Переглянути погоду</string>
+    <string name="no_user_input">Введіть текст</string>
+    <string name="clear">❌</string>
+    <string name="button_link">Офіційний сайт</string>
+</resources>
